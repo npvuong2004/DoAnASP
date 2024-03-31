@@ -1,0 +1,8 @@
+SELECT TOP (1000) [MaXe]
+      ,[TenXe]
+      ,[GiaXe]
+      ,[HinhXe]
+      ,[MaLoaiXe]
+      ,[NgayDangXe]
+      ,[CauhinhXe]
+  FROM [QLXeDoDB].[dbo].[Xe]
